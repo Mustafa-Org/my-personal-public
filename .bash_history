@@ -278,3 +278,149 @@ ls -l
 sudo apt install tree
 clear
 sudo apt install python3
+ls
+cd /
+ls
+cd  bin
+ls
+cd ..
+cd home
+ls
+cd ~
+ls
+ls -al
+ls -l
+sudo apt update
+git --version
+sudo apt install git
+git --version
+git status
+git init
+ls -l
+ls-al
+ls -al
+git status
+git add .redhat/
+git status
+git add *
+git status
+git add .config/
+git status
+git rm .
+git rm *
+git status
+clear
+git status
+ls
+rmdir test2
+rmdir test
+rmdir -r test
+rmdir -R test
+rmdir -R test/
+rmdir -r /test
+rmdir -r test/
+ls
+touch test
+ls
+ls -al
+ls -l
+rmdir test -r
+rmdir -r test/
+rmdir -r test
+git status 
+git reset
+git status
+clear
+git status
+mkdir zorin
+mkdir luccas 
+ls 
+rmdir zorin
+rmdir lucas
+rmdir luccas
+rmdir Devops
+rmdir -r Devops
+rmdir -rm Devops
+git status
+git add .redhat/
+git add .config/
+git status
+git rm --cached
+git reset
+git status
+git add .redhat/
+git status
+git commit -m "First comment"
+git apt install notepad ++
+sudo apt install notepad++
+sudo apt-get notepad
+sudo apt install notepad
+git commit -m "First Comment"
+git config --global user.email "sheikhmustafa623@outlook.com"
+git config --global user.name "Mustafa"
+git config --global list
+git config --global --list
+git commit -m
+git commit -m "First Comment"
+git remote add alias.name
+git remote add alias-name
+git remote add mustafa-org https://github.com/orgs/Mustafa-Org/teams/org-dev/repositories
+git push mustafa-org
+git remote add mustafa-org https://github.com/orgs/Mustafa-Org/
+git push mustafa-org
+rm git remote add mustafa-org https://github.com/orgs/Mustafa-Org/
+git remote add mustafa-org https://github.com/orgs/Mustafa-Org/
+git remote add Mustafa-org https://github.com/orgs/Mustafa-Org/
+git push Mustafa-org
+git add Mustafa-org https://github.com/Mustafa-Org/my-personal-public.git
+git remote add Mustafa-org https://github.com/Mustafa-Org/my-personal-public.git
+git remote add Mustafa--org https://github.com/Mustafa-Org/my-personal-public.git
+git push Mustafa--org
+git status
+git add .bash_history
+git status
+git push Mustafa--org
+git commit "Second Comment"
+git commit -m  "Second Comment"
+git status
+git push Mustafa--org
+ssh keygen
+ssh key gen
+git commit -a -m "Updated"
+git status
+ssh keygen
+ssh keygenn
+ssh 
+ssh keyggen
+ssh keyggen 
+ls -al
+ls-l
+ls -l
+ssh-keygen
+ls
+ls -al
+cd .ssh
+ls
+cat id_rsa.pub
+cd..
+cd ..
+ls
+cd Desktop
+git clone git@github.com:Mustafa-Org/my-personal-public.git
+ls
+cat y-personal-public
+cd y-personal-public
+cd my-personal-public
+ls
+cd ..
+cd ~
+ls
+git status
+touch clone 
+ls
+cat clone
+vim clone
+sudo apt install vim
+cd clone
+ls
+vim clone
